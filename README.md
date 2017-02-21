@@ -9,5 +9,6 @@ Ou, dentro da pasta (site wordpress)/wp-content/plugin efetuar o git clone.
 - Fazer a página de visualização de todos os projetos (capa dos projetos)
 - Colher feedbacks dos integrantes
 - Atualizar os campos de informação dos projetos
+- Fazer exportador de Json para integração Code for America
 - Instalar o wordpress e o plugin no site do grupo
 - Atualizar dados dos projetos em andamento
